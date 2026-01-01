@@ -5,7 +5,7 @@ void main(List<String> args) {
   double precoNotebook = 4000.996;
   print('Preço Notebook: ${precoNotebook.toStringAsFixed(2)}');
 
-  double saldo = 4001.00;
+  double saldo = 4001.0000;
   print('Saldo: ${saldo.toStringAsFixed(2)}');
   double saldoPosCompra = saldo - precoNotebook;
 
