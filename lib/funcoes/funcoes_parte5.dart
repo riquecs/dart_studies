@@ -27,6 +27,3 @@ void animarBotao() {
 void trocarBotaoDeCor() {
   print('Trocando a cor do botão...');
 }
-
-
-
